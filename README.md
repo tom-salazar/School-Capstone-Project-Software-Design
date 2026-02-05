@@ -1,4 +1,6 @@
 # School Capstone Project Software Design
+**A Windows Application written using visual basic programming language and Adobe Photoshop for User Interface design.**
+
 ## Welcome Window
 <img width="805" height="528" alt="image" src="https://github.com/user-attachments/assets/de2306f8-9089-435d-9e28-6b8b321be684" />
 
